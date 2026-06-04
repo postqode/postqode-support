@@ -1,6 +1,6 @@
 ---
-name: Doc issue template
-about: Describe this issue template's purpose here.
+name: Doc issue
+about: Doc issue
 title: "[DOC]: "
 labels: documentation
 assignees: ''
