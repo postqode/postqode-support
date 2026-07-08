@@ -1,5 +1,5 @@
-[![Open Issues](https://img.shields.io/github/issues/postqode/postqode-support?color=red)](https://github.com/postqode/postqode-support/issues?q=is%3Aissue%20state%3Aopen)
-[![Closed Issues](https://img.shields.io/github/issues/postqode/postqode-support?color=green)](https://github.com/postqode/postqode-support/issues?q=is%3Aissue%20state%3Aclosed)
+[![Open Issues](https://img.shields.io/github/issues/postqode/postqode-support?color=red)](https://github.com/postqode/postqode-support/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/postqode/postqode-support?color=green)](https://github.com/postqode/postqode-support/issues?q=is%3Aissue+is%3Aclosed)
 
 # PostQode
 **PostQode** brings autonomous AI agents for every stage of the software development lifecycle, from architecture to deployment, all within your AI Editor.
